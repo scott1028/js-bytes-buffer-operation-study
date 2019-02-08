@@ -1,0 +1,12 @@
+{
+  "name": "js-bytes-buffer-operation-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "script": {
+  	"test": "mocha"
+  }
+}
